@@ -1,0 +1,25 @@
+{
+    "name": "bootstrap-boilerplate",
+    "version": "0.1.0",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tairan/bootstrap-boilerplate.git"
+    },
+    "keywords": [
+        "bootstrap",
+        "boilerplate"
+    ],
+    "author": "Tairan Wang <tairan.wang@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "bootstrap": "^3.3.6",
+        "html5shiv": "^3.7.3",
+        "respond.js": "^1.4.2"
+    },
+    "devDependencies": {
+        "gulp": "^3.9.0",
+        "gulp-uglify": "^1.5.1",
+        "gulp-concat": "^2.6.0"
+    }
+}
